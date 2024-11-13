@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144835318211",
+    "project_id": "cliqchat-28d31",
+    "storage_bucket": "cliqchat-28d31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144835318211:android:507be5736848c8c375ed76",
+        "android_client_info": {
+          "package_name": "com.example.cliqchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvIqbB4n6e4az8E3KoTBYnCECa8VhG2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
